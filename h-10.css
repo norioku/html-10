@@ -9,8 +9,7 @@
   clear: both;
 }
 main {
-	margin-top: 50px;
-	margin-bottom: 50px;
+	margin: 50px auto;
 	width: 960px;
 }
 .step-box{
@@ -51,7 +50,7 @@ main {
 	padding:3px;
 }
 .title{
-	margin:10px 0 10px 0;
+  margin: 15px 0 5px;
 }
 @media screen and (max-width:768px){
 	main {
@@ -67,10 +66,6 @@ main {
 	.step-box:last-child {
 		margin-bottom: 0
 	}
-
-
-
-
 }
 
 
